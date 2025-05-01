@@ -8,6 +8,11 @@
 
 Sou mestre em Biologia Computacional e Sistemas pela FIOCRUZ, com ênfase em modelagem matemática e estatística, e bacharel em Biomedicina pela UNIRIO. Atuo com Ciência de Dados aplicada à saúde pública, ecologia e meio ambiente, integrando técnicas de machine learning, análise estatística e geoprocessamento (GIS). Tenho experiência prática em modelagem preditiva com Python e R, análise de dados espaciais e temporais, além de automação de rotinas com Bash e manipulação de dados com SQL em ambientes Linux e HPC.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luctinoco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luctinoco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -82,7 +87,7 @@ Projeto educacional com visualização animada em 3D de um coração, utilizando
 
 🧭 *Acredito na ciência de dados como ferramenta para transformar informação em estratégia. Fique à vontade para explorar os repositórios e entrar em contato!*
 
-<p align="center">
-  <img src="./heart/heart_animation.gif" alt="Heart animation gif" width="250" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/luctinoco/count.svg?"  />
+</div>
 
