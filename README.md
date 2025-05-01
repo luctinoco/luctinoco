@@ -17,7 +17,7 @@ Sou mestre em Biologia Computacional e Sistemas pela FIOCRUZ, com ênfase em mod
 
 ## 🚀 Tecnologias e Ferramentas
 
-### 🐍 Python
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" /> Python
 
 > Ferramentas para manipulação de dados, aprendizado de máquina, visualização interativa e automação de análises:
 
@@ -27,7 +27,7 @@ Sou mestre em Biologia Computacional e Sistemas pela FIOCRUZ, com ênfase em mod
 - `shap` – Explicabilidade de modelos
 - `dash` – Desenvolvimento de dashboards analíticos interativos
 
-### 📊 R
+### <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rstudio/rstudio-original.svg" width="30" height="30" /> R
 
 > Pacotes para ciência de dados, estatística aplicada, limpeza e análise geoespacial:
 
